@@ -1,0 +1,7 @@
+ 
+ This is a small Keylogger Proof of Concept working on Linux. It uses the X11 lib to grab the pressed keys. 
+ It needs much improvement to be a real keylogger.
+
+ Tested on Ubuntu 11.10 ( Oneiric Ocelot ) 
+
+ Should work on every Linux Distribution with X11 server.
